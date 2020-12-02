@@ -13,7 +13,7 @@ public class BasicsTest {
         basic.printSum();
 
         System.out.println("Iterating through an array: ");
-        int[] newArr = {2,4,6,8,4,10};
+        int[] newArr = {2,4,6,8,4,9};
         basic.iterate(newArr);
 
         System.out.println("Find Max:");
